@@ -103,5 +103,5 @@ jobs:
             The Linux build depends on SDL2 being installed with the package manager.
             The Windows build seems to sometimes trigger Windows Defender, this can make downloading/running it difficult.
 
-            The source downloads can sometimes be out of date and should not be used.
+            The source downloads can sometimes be out of date and should not be usedd.
           files: ./LakeSnes_*/*.zip
