@@ -76,7 +76,7 @@ jobs:
           filename: lakesnes_windows.zip
           path: lakesnes.exe SDL2.dll LICENSE.txt
       - name: Publish artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v5
         with:
           name: LakeSnes_Windows
           path: lakesnes_windows.zip
